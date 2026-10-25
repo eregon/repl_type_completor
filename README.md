@@ -58,3 +58,4 @@ ReplTypeCompletor.analyze(code_to_complete, binding: binding, filename: __FILE__
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
